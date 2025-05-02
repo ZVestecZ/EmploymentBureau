@@ -1,0 +1,45 @@
+[
+  {
+    "Title": "\u041E\u041E\u041E \u0022Horns and Hooves\u0022",
+    "Post": "Sales Manager",
+    "Wages": 50000,
+    "Documents": [
+      "Passport",
+      "Employment Record",
+      "Taxpayer Identification Number (TIN)"
+    ],
+    "WorkSchedules": [
+      "5/2 from 9:00 to 18:00",
+      "2/2 from 8:00 to 20:00"
+    ]
+  },
+  {
+    "Title": "PJSC \u0022Gazprom\u0022",
+    "Post": "Design Engineer",
+    "Wages": 80000,
+    "Documents": [
+      "Passport",
+      "Higher Education Diploma",
+      "Social Insurance Number (SNILS)",
+      "Military ID (for men)"
+    ],
+    "WorkSchedules": [
+      "Full-time",
+      "Business trips possible"
+    ]
+  },
+  {
+    "Title": "Individual Entrepreneur Ivanov I.I.",
+    "Post": "Driver-Forwarder",
+    "Wages": 40000,
+    "Documents": [
+      "Passport",
+      "Driver\u0027s License",
+      "Medical Certificate"
+    ],
+    "WorkSchedules": [
+      "Irregular working hours",
+      "Traveling job"
+    ]
+  }
+]

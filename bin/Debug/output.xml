@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Иванов Иван Иванович</Name>
+    <Age>35</Age>
+    <Male>true</Male>
+    <Passport>
+      <Number>123456</Number>
+      <IssueDate>2010-05-15T00:00:00</IssueDate>
+      <EndDate>2030-05-15T00:00:00</EndDate>
+      <Registrations>
+        <Registration>Москва, ул. Ленина, д. 1</Registration>
+        <Registration>Санкт-Петербург, Невский пр., д. 2</Registration>
+      </Registrations>
+      <Marriages>
+        <Marriage>Петрова Анна Сергеевна</Marriage>
+      </Marriages>
+    </Passport>
+    <WorkExperience>
+      <Position>Менеджер по продажам</Position>
+      <Position>Старший менеджер по продажам</Position>
+    </WorkExperience>
+  </Employee>
+  <Employee>
+    <Name>Петрова Мария Ивановна</Name>
+    <Age>28</Age>
+    <Male>false</Male>
+    <Passport>
+      <Number>789012</Number>
+      <IssueDate>2015-11-20T00:00:00</IssueDate>
+      <EndDate>2035-11-20T00:00:00</EndDate>
+      <Registrations>
+        <Registration>Казань, ул. Баумана, д. 3</Registration>
+      </Registrations>
+      <Marriages>
+        <Marriage />
+      </Marriages>
+    </Passport>
+    <WorkExperience>
+      <Position>Бухгалтер</Position>
+      <Position>Старший бухгалтер</Position>
+      <Position>Главный бухгалтер</Position>
+    </WorkExperience>
+  </Employee>
+  <Employee>
+    <Name>Сидоров Алексей Петрович</Name>
+    <Age>42</Age>
+    <Male>true</Male>
+    <Passport>
+      <Number>345678</Number>
+      <IssueDate>2005-08-01T00:00:00</IssueDate>
+      <EndDate>2025-08-01T00:00:00</EndDate>
+      <Registrations>
+        <Registration>Екатеринбург, ул. Малышева, д. 4</Registration>
+        <Registration>Новосибирск, Красный пр., д. 5</Registration>
+      </Registrations>
+      <Marriages>
+        <Marriage>Смирнова Елена Викторовна</Marriage>
+        <Marriage>Кузнецова Ольга Андреевна</Marriage>
+      </Marriages>
+    </Passport>
+    <WorkExperience>
+      <Position>Инженер</Position>
+      <Position>Старший инженер</Position>
+      <Position>Ведущий инженер</Position>
+      <Position>Начальник отдела</Position>
+    </WorkExperience>
+  </Employee>
+</Employees>
